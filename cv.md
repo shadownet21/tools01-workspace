@@ -6,7 +6,7 @@
 ##  Profil
 
 Développeur Full Stack passionné avec 5 ans d'expérience dans la conception 
-et le développement d'applications web robuste.
+et le développement d'applications web robustes.
 
 ---
 ##  Compétences
