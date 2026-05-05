@@ -1,6 +1,6 @@
 #  Marc Maurice Freeman  
 ## | Développeur Full Stack              | Longueuil, Quebec      |  J4J 5C1         |
-## | Github : Shadownet21          | Mail : Birkhofxy@gmail.com | Tel : 514 266 0646 |
+## | Github : Shadownet21          | Mail : birkhofxy@gmail.com | Tel : 514 266 0646 |
 
 
 ##  Profil
