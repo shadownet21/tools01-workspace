@@ -26,7 +26,7 @@ et le développement d'applications web robustes.
  Avril 2026 — Présent | Montréal, QC
 
 - Développement d'un site web portfolio
-- Naviguer dans un système de fichiers via le terminal
+- Naviguation dans un système de fichiers via le terminal
 - Bonnes pratiques de versioning en équipe avec GitHub
 - Bash scripting
 ---
