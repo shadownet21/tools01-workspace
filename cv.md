@@ -13,7 +13,7 @@ et le développement d'applications web.
 
 | Catégorie        | Technologies                              |
 |------------------|-------------------------------------------|
-| **Langages**     | PHP, JavaScript, SQL              |
+| **Langages**     | HTML5, CSS3, PHP, JavaScript, SQL         |
 | **Frameworks**   | Laravel, React, Bootstrap                 |
 | **Bases de données** | SQL Server, MySQL, PostgreSQL         |
 | **Outils**       | Git, GitHub, VS Code                      |
