@@ -1,15 +1,15 @@
 #  Marc Maurice Freeman  
 ## | Développeur Full Stack              | Longueuil, Quebec      |  J4J 5C1         |
-## | Github : Shadownet21          | 📅 Mail : birkhofxy@gmail.com | Tel : 514 266 0646 |
+## | Github : Shadownet21          | 📅 Mail : birkhofxy@gmail.com | 📞Tel : 514 266 0646 |
 
 
-##  Profil
+## 👤 Profil
 
 Développeur Full Stack passionné avec 5 ans d'expérience dans la conception 
 et le développement d'applications web robustes.
 
 ---
-##  Compétences
+## 🛠️ Compétences
 
 | Catégorie        | Technologies                              |
 |------------------|-------------------------------------------|
@@ -20,7 +20,7 @@ et le développement d'applications web robustes.
 | **Systèmes**     | Linux, Windows, Bash                      |
 
 ---
-##  Expérience professionnelle
+## 💼 Expérience professionnelle
 
 ### Développeur — *Cybercap*
  Avril 2025 — Présent | Montréal, QC
@@ -44,20 +44,20 @@ et le développement d'applications web robustes.
 - Support aux utilisateurs sur les applications métiers
 ---
 
-##  Formation
+## 💼 Formation
 
 ### DEC en Informatique — *ESGIS*
  2017 — 2020
 
 ---
-##  Projets personnels
+## 🏆 Projets personnels
 
 ### Système de gel de comptes
 > Application HTML5/CSS3/PHP5/MySQL pour automatiser le traitement de gel de comptes bancaires liés aux remboursements de crédits.
 
 ---
 
-##  Langues
+## 🌐 Langues
 
 | Langue      | Niveau        |
 |-------------|---------------|
@@ -66,7 +66,7 @@ et le développement d'applications web robustes.
 
 ---
 
-##  Intérêts
+## 🎯 Intérêts
 
 `Basketball` `Cybersécurité` `Intelligence Artificielle` 
 ---
